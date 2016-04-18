@@ -116,9 +116,9 @@ public static class LevelDesign
                 Upper = new Data() {
                         circlePercent = 0.5f,
                         squarePercent = 0.5f,
-                        brokenWallPercent = 0,
-                        greenPercent = 0f,
-                        redPercent = 0f,
+                        brokenWallPercent = 0.5f,
+                        greenPercent = 0.5f,
+                        redPercent = 0.5f,
                         size = new Maze.Size(17,9),
                         fallTime = -1
                     }
