@@ -1,0 +1,3 @@
+<size=50>Objective:</size>
+
+Reach the yellow marker

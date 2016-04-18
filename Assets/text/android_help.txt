@@ -1,0 +1,10 @@
+<size=50>Controls: </size>
+
+      <b>Movement</b>
+Tilt your device forward/backward/left/right to move the shape
+
+      <b>Shape Shifting</b>
+Tap on the left side of the screen to shape shift between Cylinder and Cube
+
+      <b>Color Shifting</b>
+Tap on the right side of the screen to color shift between Red and Green

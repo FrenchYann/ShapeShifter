@@ -1,0 +1,16 @@
+<size=50>Obstacles:</size>
+
+      <b>Circular Hole</b> 
+You’ll fall if you step on it with a Cylinder shape
+
+      <b>Square Hole</b>
+You’ll fall if you step on it with a Cube shape
+
+      <b>Big Hole</b>
+You’ll fall in any case
+
+      <b>Red surface</b>
+You’ll fall through if you are Red
+
+      <b>Green surface</b>
+You’ll fall through if you are Green

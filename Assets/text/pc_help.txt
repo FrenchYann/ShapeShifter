@@ -1,0 +1,10 @@
+<size=50>Controls: </size>
+
+      <b>Movement</b>
+Use the arrow keys to move the shape forward/backward/left/right
+
+      <b>Shape Shifting</b>
+Press SHIFT to shift between Cylinder and Cube 
+
+      <b>Color Shifting</b>
+Press CTRL to shift between Red and Green 
